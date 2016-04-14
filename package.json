@@ -1,0 +1,25 @@
+{
+  "name": "mock-serialport",
+  "version": "0.0.1",
+  "description": "Mock serial port communication, for tests purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauroJr/mock-serialport.git"
+  },
+  "keywords": [
+    "mock",
+    "serialport",
+    "serial",
+    "port"
+  ],
+  "author": "Mauro Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauroJr/mock-serialport/issues"
+  },
+  "homepage": "https://github.com/MauroJr/mock-serialport#readme"
+}
